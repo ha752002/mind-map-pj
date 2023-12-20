@@ -1,0 +1,29 @@
+{
+  "name": "mind_map_pj_client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classcat": "^5.0.4",
+    "clsx": "^2.0.0",
+    "nanoid": "^5.0.4",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "reactflow": "^11.10.1",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
